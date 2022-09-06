@@ -1,7 +1,7 @@
 name: TopMoneyNPC
 main: RhaxZDev\NPCTop\Main
 version: 1
-api: [4.0.0]
+api: [4.8.1]
 author: RhaxDev
 
 permissions:
